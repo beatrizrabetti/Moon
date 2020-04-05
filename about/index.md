@@ -1,37 +1,47 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About me
+tags: [ux designer, ui designer, ux, ui]
+date: 2020-04-04
 comments: false
 ---
     
-<center><a href="https://beatrizrabetti.github.io/"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center>“Some people think design means how it looks. But of course, if you dig deeper, it’s really how it works.” Steve Jobs</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
 
-## Preview
+Initially, as an architect, i used to think about the user in a physical environment, his flow, his needs, his interaction with the environment and the aesthetics that would surrounds it all. Now, as an UX / UI designer, I think about the user in a digital environment, his flow, his needs, his interaction with the environment and the aesthetics that surrounds it all.
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+## Skills and specialities
+* Usability
+* UX Writing
+* Information Architecture
+* UX Research
+* UI Design
+* Prototyping
+* CSS and HTML
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+## Studies
 
-## Getting Started
+* Gama Academy - Gama Experience XP22 (2019)
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+Immersion of 5 weeks in São Paulo studying the theory and practice of UX / UI Design, soft skills and group work (integrated with marketing, sales and front-end development).
+
+* UnB - Universidade de Brasília (2013-2018)
+
+Graduation in Architecture and Urbanism at the public university.
+
+## Complementary courses
+
+* Alura - UX writing
+* Coursera - UX / UI: Fundamentos para o design de interface - USP
+* UI Lab - User interface na prática
+
+## Contact me
+
+I live in Brasília, Brazil.
+
+brabetti@gmail.com 
       
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+[send me a message on linkedin](https://www.linkedin.com/in/beatrizrabetti/){: .btn}
+
+European citizen - right to work in the EU area (Portuguese citizenship)
