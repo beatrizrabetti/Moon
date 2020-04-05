@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Challenge"
+title: "Prototype challenge"
 date: 2020-04-05
 excerpt: "Challenge - Sea Tecnologia"
 project: true
-tags: [lalala, challenge, sea tecnologia]
+tags: [prototype, challenge, sea tecnologia]
 comments: true
 feature: /assets/img/projects-1desafio-sea.png
 ---
