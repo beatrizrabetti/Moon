@@ -2,9 +2,9 @@
 layout: post
 title: "Challenge"
 date: 2020-04-05
-project: true
 excerpt: "Challenge - Sea Tecnologia"
-tags: [project, challenge, sea tecnologia]
+project: true
+tags: [lalala, challenge, sea tecnologia]
 comments: true
 ---
 
