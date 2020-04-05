@@ -6,7 +6,7 @@ date: 2020-04-04
 comments: false
 ---
     
-<center>“Some people think design means how it looks. But of course, if you dig deeper, it’s really how it works.” Steve Jobs</center>
+<center>“Some people think design means how it looks. But of course, if you dig deeper, it’s really how it works.” <br> Steve Jobs</center>
 
 
 Initially, as an architect, i used to think about the user in a physical environment, his flow, his needs, his interaction with the environment and the aesthetics that would surrounds it all. Now, as an UX / UI designer, I think about the user in a digital environment, his flow, his needs, his interaction with the environment and the aesthetics that surrounds it all.
@@ -40,8 +40,8 @@ Graduation in Architecture and Urbanism at the public university.
 
 I live in Brasília, Brazil.
 
-brabetti@gmail.com 
+Send me an email: brabetti@gmail.com 
       
-[send me a message on linkedin](https://www.linkedin.com/in/beatrizrabetti/){: .btn}
+[send me a message on linkedin](https://www.linkedin.com/in/beatrizrabetti/){: .btn }
 
 European citizen - right to work in the EU area (Portuguese citizenship)
