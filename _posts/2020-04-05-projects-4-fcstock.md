@@ -2,7 +2,7 @@
 layout: post
 title: "FC STOCK"
 date: 2020-04-05
-excerpt: "Group task performed in one week during course"
+excerpt: "Group task performed in two weeks during course"
 project: true
 tags: [prototype, user experience, Gama Academy]
 comments: true
