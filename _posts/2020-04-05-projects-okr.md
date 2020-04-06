@@ -4,7 +4,7 @@ title: "OKR na prática"
 date: 2020-04-05
 excerpt: "Group task performed in one week during course."
 project: true
-tags: [prototype, landingpage, Gama Academy]
+tags: [prototype, user experience, Gama Academy]
 comments: true
 feature: /assets/img/projects/okr/projects-1okr.png
 ---
@@ -13,11 +13,11 @@ feature: /assets/img/projects/okr/projects-1okr.png
 
 "OKR na prática" was part of the course at the Gama Academy. The proposal was to create a blog to get as many leads as possible. The theme of the blog, the name, the website codes and all the visual identity were done in one week. The group was composed of people from design, development, sales and digital marketing. During the week we also created personas and did usability tests.
 
-![Moon Homepage](/assets/img/projects/okr/projects-1okr.png) 
+![Moon Homepage](/assets/img/projects/okr/projects-okr.png) 
 
 ## About this project
 * Client: Gama Academy
 * Date: June/2019
 * Team: Beatriz Rabetti, Natalia Feitosa, Mirela Estevão, Cristiano Carneiro
 * Tools: Figma, Adobe Illustrator
-* Topics: Prototyping, user experience, UI design
+* Topics: Prototyping, user experience, UI design, persona, usability test

@@ -19,17 +19,17 @@ To create the name and visual identity of the checkpoint camp, we used brainstor
 	/assets/img/projects/checkpoint/projects-checkpoint2.jpg
 	/assets/img/projects/checkpoint/projects-checkpoint3.jpg
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=3 %}
+{% include gallery images=images caption="Instagram posts" cols=3 %}
 {% capture images %}
 	/assets/img/projects/checkpoint/projects-checkpoint4.jpg
 	/assets/img/projects/checkpoint/projects-checkpoint5.jpg
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+{% include gallery images=images caption="Instagram stories" cols=2 %}
 {% capture images %}
 	/assets/img/projects/checkpoint/projects-checkpoint7.jpg
 	/assets/img/projects/checkpoint/projects-checkpoint8.png
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+{% include gallery images=images caption="Mockups" cols=2 %}
 
 ## About this project
 * Client: Área + / Igreja Batista Capital
