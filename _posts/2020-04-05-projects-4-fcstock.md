@@ -13,7 +13,7 @@ feature: /assets/img/projects/fc-stock/projects-fcstock0.png
 
 "FC STOCK" was part of the course at the Gama Academy. The challenge was to identify a problem in society and create a product to solve it. The group was composed of people from design, development, sales and digital marketing. We had 2 weeks to perform. The problem identified was the abandonment of online shopping because of freight. Thus, to help entrepreneurs, the FC STOCK platform emerges, which integrates with the e-commerce website and understands the company's logistical needs, drawing up an integrated plan with all FC STOCK's shared distribution centers from stock anticipation. Improving inventory planning, control and administration, optimizing management and minimizing losses. To create the FC STOCK we have done a lot of user research: persona, service blueprint, empathy map and user journey.
 
-You can have more information in https://www.behance.net/gallery/82938021/UXUI-FC-STOCK
+You can have more information in [here]. (https://www.behance.net/gallery/82938021/UXUI-FC-STOCK) 
 
 ![Moon Homepage](/assets/img/projects/fc-stock/projects-fcstock.png) 
 
