@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "FC STOCK"
+title: "UX Research / FC STOCK"
 date: 2020-04-05
 excerpt: "Group task performed in two weeks during course"
 project: true
-tags: [prototype, user experience, Gama Academy]
+tags: [prototype, UX research, Gama Academy]
 comments: true
 feature: /assets/img/projects/fc-stock/projects-fcstock0.png
 ---
@@ -38,4 +38,4 @@ Service Blueprint
 * Date: July/2019
 * Team: Beatriz Rabetti, Eileen Sambo, Martim Rubino, Paulo Sampaio
 * Tools: Figma, Adobe Illustrator, Adobe Photoshop
-* Topics: Prototyping, user experience, UI design, persona, empathy map, service blueprint, user journey, swot analysis
+* Topics: Prototyping, user experience, UI design, persona, empathy map, service blueprint, user journey, swot analysis, UX research
