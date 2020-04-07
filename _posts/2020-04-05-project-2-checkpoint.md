@@ -13,7 +13,7 @@ feature: /assets/img/projects/checkpoint/projects-1checkpoint.png
 
 To create the name and visual identity of the checkpoint camp, we used brainstorming sessions with the leadership team. After this, I studied to define the color palette, typography and visual elements and then approved with the team. For the camp several materials were made: for promotion on Instagram, printed materials, notebook, cup, stamps and etc.
 
-![Moon Homepage](/assets/img/projects/checkpoint/projects-checkpoint6.png) 
+![Checkpoint Project](/assets/img/projects/checkpoint/projects-checkpoint6.png) 
 {% capture images %}
 	/assets/img/projects/checkpoint/projects-checkpoint1.jpg
 	/assets/img/projects/checkpoint/projects-checkpoint2.jpg

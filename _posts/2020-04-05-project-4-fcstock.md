@@ -15,7 +15,7 @@ feature: /assets/img/projects/fc-stock/projects-fcstock0.png
 
 You can have more information in [here](https://www.behance.net/gallery/82938021/UXUI-FC-STOCK). 
 
-![Moon Homepage](/assets/img/projects/fc-stock/projects-fcstock.png) 
+![FC STOCK Project](/assets/img/projects/fc-stock/projects-fcstock.png) 
 
 {% capture images %}
 	/assets/img/projects/fc-stock/projects-fcstock1.png
@@ -24,13 +24,13 @@ You can have more information in [here](https://www.behance.net/gallery/82938021
 {% endcapture %}
 {% include gallery images=images caption="Problem, market and solution" cols=3 %}
 
-![Moon Homepage](/assets/img/projects/fc-stock/projects-fcstock4.png) 
+![FC STOCK Project](/assets/img/projects/fc-stock/projects-fcstock4.png) 
 Home page
-![Moon Homepage](/assets/img/projects/fc-stock/projects-fcstock5.jpg) 
+![FC STOCK Project](/assets/img/projects/fc-stock/projects-fcstock5.jpg) 
 Empathy map
-![Moon Homepage](/assets/img/projects/fc-stock/projects-fcstock6.png) 
+![FC STOCK Project](/assets/img/projects/fc-stock/projects-fcstock6.png) 
 User journey
-![Moon Homepage](/assets/img/projects/fc-stock/projects-fcstock7.png) 
+![FC STOCK Project](/assets/img/projects/fc-stock/projects-fcstock7.png) 
 Service Blueprint
 
 ## About this project
