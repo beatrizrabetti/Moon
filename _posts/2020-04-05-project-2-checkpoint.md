@@ -36,4 +36,4 @@ To create the name and visual identity of the checkpoint camp, we used brainstor
 * Date: August/2019
 * Team: Beatriz Rabetti
 * Tools: Adobe Illustrator, Adobe Photoshop
-* Topics: Graphic design
+* Topics: Graphic design, printed materials, instagram post
