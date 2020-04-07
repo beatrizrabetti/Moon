@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prototype challenge"
+title: "UI Design / Prototype challenge"
 date: 2020-04-05
 excerpt: "Challenge - Sea Tecnologia"
 project: true

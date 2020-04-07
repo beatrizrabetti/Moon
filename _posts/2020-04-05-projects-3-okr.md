@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OKR na prática"
+title: "UI Design / OKR na prática"
 date: 2020-04-05
 excerpt: "Group task performed in one week during course"
 project: true

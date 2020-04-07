@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Checkpoint camp"
+title: "Graphic Design / Checkpoint camp"
 date: 2020-04-05
 excerpt: "Graphic design for a church camp called Checkpoint"
 project: true
