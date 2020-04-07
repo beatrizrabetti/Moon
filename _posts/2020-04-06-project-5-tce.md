@@ -6,21 +6,21 @@ excerpt: "Intranet created for government agency called TCE-GO"
 project: true
 tags: [prototype, UX/UI design, sea tecnologia]
 comments: true
-feature: /assets/img/projects/tce/projects-tce.png
+feature: /assets/img/projects/tce/project-tce.png
 ---
 
 # Intranet TCE-GO
 
 This project was done at the company I work for, SEA Tecnologia, with another employee. We made the an intranet for the government. This client did not have an intranet, so to achieve a nice result we used card sorting dynamics and we have done some briefings to understand the users' desires and needs. From that and after analyzing the visual identity manual, we were able to create the screens, initially wireframe and finally the high fidelity layout. After completing the screens and receiving approval, we did usability tests with users to make further adjustments.
 
-![Moon Homepage](/assets/img/projects/tce/projects-tce1.png) 
-![Moon Homepage](/assets/img/projects/tce/projects-tce2.png) 
-![Moon Homepage](/assets/img/projects/tce/projects-tce3.png) 
-![Moon Homepage](/assets/img/projects/tce/projects-tce4.png) 
-![Moon Homepage](/assets/img/projects/tce/projects-tce5.png) 
+![TCE-GO Project](/assets/img/projects/tce/project-tce1.png) 
+![TCE-GO Project](/assets/img/projects/tce/project-tce2.png) 
+![TCE-GO Project](/assets/img/projects/tce/project-tce3.png) 
+![TCE-GO Project](/assets/img/projects/tce/project-tce4.png) 
+![TCE-GO Project](/assets/img/projects/tce/project-tce5.png) 
 
 ## About this project
-* Client: SEA Tecnologia
+* Client: TCE-GO
 * Date: August/2019
 * Team: Beatriz Rabetti and Igor Modesto - SEA Tecnologia
 * Tools: Figma
