@@ -2,7 +2,7 @@
 layout: post
 title: "UI Design / Prototype challenge"
 date: 2020-04-05
-excerpt: "Challenge - Sea Tecnologia"
+excerpt: "Challenge proposed by SEA Tecnologia for intranet creation"
 project: true
 tags: [prototype, challenge, sea tecnologia]
 comments: true
