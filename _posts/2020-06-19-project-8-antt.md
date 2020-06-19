@@ -17,19 +17,19 @@ ANTT is a Brazilian federal agency responsible for regulating the activities of 
 Desktop home page
 
 ![ANTT Project](/assets/img/projects/antt/smartphone-home.png) 
-Pending notice
+Smartphone home page
 
 ![ANTT Project](/assets/img/projects/antt/desktop-subhome-rodovias.png) 
-User dashboard
+Subhome
 
 ![ANTT Project](/assets/img/projects/antt/desktop-subhome-de-sistemas.png) 
-Management reports
+Subhome
 
 ![ANTT Project](/assets/img/projects/antt/desktop-subhome-noticias-e-eventos.png) 
-Management reports
+News and events
 
 ![ANTT Project](/assets/img/projects/antt/desktop-busca-de-itinerario.png) 
-Error 404
+Itinerary search
 
 ## About this project
 * Client: ANTT
