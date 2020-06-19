@@ -12,6 +12,7 @@ comments: false
 Initially, as an architect, I used to think about the user in a physical environment, his flow, his needs, his interaction with the environment and the aesthetics that goes within all of this. Now, as an UX / UI designer, I think about the user in a digital environment, his flow, his needs, his interaction with the environment and the aesthetics that goes with it.
 
 ## Skills and specialities
+* UX design
 * Usability
 * UX Writing
 * Information Architecture
