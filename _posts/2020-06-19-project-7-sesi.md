@@ -11,7 +11,7 @@ feature: /assets/img/projects/sesi/project-sesi.png
 
 # Document generation system
 
-This project was a challenge, as the document to be generated went through a process very complex and needed the constant presence of a specialized team, the idea was simplify for an common user. Therefore, the information architecture was essential, we held several meetings and dynamics to unlock creativity and achieve a simple and easy result for the user. This project demanded a lot of information architecture, user experience and ux writing. Then, we produced the interfaces with constant alignments with clients to improvements and evolutions. 
+This project was a challenge, as the document to be generated went through a process very complex and needed the constant presence of a specialized team, the idea was simplify for a common user. Therefore, the information architecture was essential, we held several meetings and dynamics to unlock creativity and achieve a simple and easy result for the user. This project demanded a lot of information architecture, user experience and ux writing. Then, we produced the interfaces with constant alignments with clients to improvements and evolutions. 
 
 ![SESI Project](/assets/img/projects/sesi/empresa.png) 
 First step of the process

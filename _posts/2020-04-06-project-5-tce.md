@@ -11,7 +11,7 @@ feature: /assets/img/projects/tce/project-tce.png
 
 # Intranet TCE-GO
 
-This project was done at the company I work for, SEA Tecnologia, with another employee. We made the an intranet for the government. This client did not have an intranet, so to achieve a nice result we used card sorting dynamics and we have done some briefings to understand the users' desires and needs. From that and after analyzing the visual identity manual, we were able to create the screens, initially wireframe and finally the high fidelity layout. After completing the screens and receiving approval, we did usability tests with users to make further adjustments.
+This project was done at the company I work for, SEA Tecnologia, with another employee. We made an intranet for the government. This client did not have an intranet, so to achieve a nice result we used card sorting dynamics and we have done some briefings to understand the users' desires and needs. From that and after analyzing the visual identity manual, we were able to create the screens, initially wireframe and finally the high fidelity layout. After completing the screens and receiving approval, we did usability tests with users to make further adjustments.
 
 ![TCE-GO Project](/assets/img/projects/tce/project-tce1.png) 
 Home page
