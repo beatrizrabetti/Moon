@@ -36,6 +36,10 @@ Graduation in Architecture and Urbanism at the public university.
 * Alura - UX writing
 * Coursera - UX / UI: Fundamentos para o design de interface - USP
 * UI Lab - User interface na prática
+* Alura - Introdução ao Google Analytics: configurações e funcionalidades
+* Alura - UX Strategy: divergindo e afunilando ideias
+* Alura - Fundamentos do Storytelling: Visão de negócios e desenvolvimento pessoal
+* FIAP - Customer Experience Management
 
 ## Contact me
 
