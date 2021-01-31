@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Design / BANDÔ"
+title: "Graphic Design / Bandô"
 date: 2020-08-19
-excerpt: "visual identity - Bandô"
+excerpt: "Visual identity - Bandô"
 project: true
 tags: [Graphic design]
 comments: true
