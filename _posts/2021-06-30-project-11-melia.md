@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "UX/UI Design / App Meliã"
-date: 2020-10-19
+date: 2021-06-30
 excerpt: "App Meliã Hotels & Resorts"
 project: true
 tags: [prototype, UX/UI design, UX research]
@@ -9,7 +9,7 @@ comments: true
 feature: /assets/img/projects/Meia/project-melia.png
 ---
 
-# Meliã
+# Meliã Hotels & Resorts
 
 The proposal was to create an app in which guests can check in and check out online, avoiding queues and waiting at the reception. In addition, the app should be attractive, so it is important to have other features to make the user stay in it.
 
